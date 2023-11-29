@@ -3,6 +3,6 @@
 2.Trang chủ:
    ![Trangchu](img/trangchu.png)
 3.Trang list role:
- ![ListRole](img/lístRolePage.png)
+ ![ListRole](img/listRolePage.png)
 4.Trang thêm tài khoản:
  ![AddAccount](img/addAccount.png)
